@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Surroundings
+  - PlayerListing
+  - blackout
+  - Keyholder
+  - RightWind
+  - LeftWind
+  - MovingPlatform
+  - GroundDetector
+  - Beer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background Graphics
+    uniqueID: 1265654297
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Room
+    uniqueID: 519745809
+    locked: 0
+  - name: Lobby
+    uniqueID: 556973263
+    locked: 0
+  - name: Surroundings
+    uniqueID: 351366961
+    locked: 0
+  - name: Effects2
+    uniqueID: 3959072867
+    locked: 0
+  - name: Platforms
+    uniqueID: 2176336929
+    locked: 0
+  - name: NPC
+    uniqueID: 548928393
+    locked: 0
+  - name: Effects
+    uniqueID: 357215935
+    locked: 0
+  - name: Player
+    uniqueID: 1221577965
+    locked: 0
+  - name: Mask
+    uniqueID: 2767920255
+    locked: 0
+  - name: UI
+    uniqueID: 740381681
+    locked: 0
