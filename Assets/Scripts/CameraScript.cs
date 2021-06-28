@@ -15,10 +15,10 @@ public class CameraScript : MonoBehaviourPunCallbacks
     // Update is called once per frame
     void Update()
     {   
-        if(players.Length == 0){
+        if(players == null || players.Length == 0){
             players = GameObject.FindGameObjectsWithTag("Player");
         }
-        if(cameraTarget == null && players.Length > 1){
+        if(cameraTarget == null && players.Length >= 1){
             foreach (GameObject player in players){
                 Debug.Log("PLayer name: "+player.name);
                 if(player.GetComponent<PhotonView>().IsMine){
